@@ -11,6 +11,7 @@ src
 │    │        └──com
 │    │            └──wolox
 │    │                └──api
+│    │                    └──configurations
 │    │                    └──controllers
 │    │                    └──dtos
 │    │                    └──exceptions
